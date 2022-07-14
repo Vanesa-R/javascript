@@ -1,0 +1,48 @@
+<!DOCTYPE html>
+<html lang="es">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <link rel="stylesheet" type="text/css" href="style.css">
+    <title>Ejercicios DOM</title>
+</head>
+<body>
+    <header class="header">
+        <h1 id="title">Document Object Model</h1>
+    </header>
+    <main class="main">
+        <section class="main-paragraphs">
+            <h2>Añadiendo un nuevo párrafo</h2>
+            <p>Condimentum tellus nibh facilisi ultrices sagittis feugiat penatibus neque porta lobortis leo duis, egestas taciti tempor commodo ridiculus cum ornare convallis integer sapien tempus platea dui, congue malesuada et sociis magnis nascetur aliquam class ultricies vivamus odio. Fringilla posuere rhoncus sociosqu torquent platea maecenas ante purus, donec tortor suscipit porta laoreet praesent leo non, suspendisse mi curae mauris aliquet feugiat lacus.</p>
+            <p id="paragraph"></p>
+        </section>
+        <section class="main-list">
+            <h2>Añadiendo elementos a una lista</h2>
+            <ul id="list">
+                <li class="list-item">Lorem ipsum dolor sit amet consectetur adipiscing elit</li>
+                <li class="list-item">Quisque phasellus inceptos ante sapien blandit tempor diam</li>
+                <li class="list-item">Venenatis urna proin netus euismod arcu torquent gravida nisi</li>
+                <li class="list-item">Pellentesque auctor hendrerit odio rutrum montes vestibulum inceptos ridiculus</li>
+            </ul>
+        </section>
+        <section class="main-inputs">
+            <h2>Modificando atributos. Eventos</h2>
+            <form>
+                <label for="name"></label>
+                <input type="text" id="name" placeholder="Nombre">
+                <input type="button" id="btn-saludo" value="Saludar">
+            </form>
+            <h2>Añadiendo elementos a un select</h2>
+                <ul id="provinceList"></ul>
+                <select id="provinceSelect"></select>
+        </section>
+    </main>
+    <script src="part1_acceder.js"></script>
+    <script src="part2_modificar.js"></script>
+    <script src="part3_eventos.js"></script>
+    <script src="part4_traversing.js"></script>
+    <script src="part5_crear.js"></script>
+    <script src="part6_reemplazar.js"></script>
+</body>
+</html>
+
