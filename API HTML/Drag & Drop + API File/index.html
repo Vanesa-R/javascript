@@ -1,0 +1,32 @@
+<!DOCTYPE html>
+<html lang="es">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <link href="https://fonts.googleapis.com/css2?family=Dosis:wght@300;500&display=swap" rel="stylesheet">
+    <link rel="stylesheet" href="https://use.fontawesome.com/releases/v5.8.1/css/all.css" integrity="sha384-50oBUHEmvpQ+1lW4y57PTFmhCaXp0ML5d60M1M7uH2+nqUivzIebhndOJK28anvf" crossorigin="anonymous">
+
+    <link rel="stylesheet" href="style.css">
+    <title>Drag & Drop + API File</title>
+</head>
+<body>
+
+    <form class="form" id="form" method="post">
+        <div class="input-group">
+            <label for="input-file" class="input-file"><img src="files-and-folders.png">Subir archivos</label>
+            <input type="file" name="input-file" id="input-file" class="file" multiple>
+        </div>
+        <div class="drop-zone" id="drop-zone">
+            <div class="drop-zone__image">
+                <i class="fas fa-file-archive fa-2x"></i>
+                <i class="fas fa-file-image fa-2x"></i>
+                <i class="fas fa-file-word fa-2x"></i>
+                <p class="text">Arrastra aquí los archivos para <strong>subir</strong></p>
+            </div>
+        </div>
+    </form>
+    <div class="container-preview" id="container-preview"></div>
+    </div>
+    <script src="script.js"></script>
+</body>
+</html>

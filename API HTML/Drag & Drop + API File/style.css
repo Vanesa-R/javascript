@@ -1,0 +1,121 @@
+* {
+    padding: 0;
+    margin: 0;
+    box-sizing: border-box;
+}
+body {
+    background-color: #f6f6f6;
+    font-family: 'Dosis', sans-serif;
+}
+.form {
+    width: 100%;
+    min-height: 74vh;
+}
+.input-group {
+    background-color: white;
+    height: 8vh;
+    display: flex;
+    justify-content: flex-end;
+    align-items: center;
+    padding: 0 1em;
+}
+.file {
+    display: none;
+}
+.input-file {
+    position: relative;
+    cursor: pointer;
+}
+.input-file img {
+    position: absolute;
+    top: 0;
+    left: -2em;
+}
+
+.drop-zone {
+    height: 66vh;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+.drop-zone__image {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    width: 30rem;
+    height: 15rem;
+    background-color: white;
+    border-radius: .3em;
+    font-size: 2em;
+    font-weight: 100;
+    position: relative;
+    cursor: move;
+}
+
+.fas {
+    box-shadow: 0 5px 5px -2px #64646465;
+    position: absolute;
+    top: -30px;
+}
+.fa-file-archive {
+    color: #f4c95e;
+    left: 120px;
+    transform: rotate(-10deg);
+    transition: ease 3ms transform;
+}
+.fa-file-archive:hover{
+    transform: rotate(-10deg) scale(1.1);
+}
+.fa-file-image {
+    top: -45px;
+    color: #fd6c61;
+    transition: ease 3ms transform;
+}
+.fa-file-image:hover{
+    transform: scale(1.1);
+}
+.fa-file-word {
+    color: #5ca3f5;
+    right: 120px;
+    transform: rotate(15deg);
+    transition: ease 3ms transform;
+}
+.fa-file-word:hover{
+    transform: rotate(15deg) scale(1.1);
+}
+
+.container-preview {
+    display: none;
+    flex-direction: row;
+    justify-content: center;
+    align-items: center;
+    height: 26vh;
+    margin-top: -2em;
+}
+.file-preview {
+    background-color: white;
+    width: 13%;
+    height: 90%;
+    margin: 0 .5em;
+    border-radius: .2em;
+    box-shadow: 1px 1px 4px grey;
+    overflow: hidden;
+}
+.file-preview img {
+    width: 100%;
+    height: 80%;
+    object-fit: cover;
+    border-radius: .2em;
+    overflow: hidden;
+    padding: .1em;
+    opacity: .8;
+    transition: ease 3ms opacity;
+    cursor: pointer;
+}
+.file-preview img:hover {
+    opacity: 1;
+}
+.file-preview p {
+    text-align: center;
+    font-size: .8em;
+}
