@@ -1,0 +1,36 @@
+# Katas de [Codewars](https://www.codewars.com/)
+
+## 6 kyu
+- [Break camelCase](https://github.com/Vanesa-R/javascript/blob/master/6.%20Ejercicios%20programaci%C3%B3n/Katas%20de%20codewars/6%20kyu/break_camelCase.js)
+- [Create Phone Number](https://github.com/Vanesa-R/javascript/blob/master/6.%20Ejercicios%20programaci%C3%B3n/Katas%20de%20codewars/6%20kyu/create_phone_number.js)
+- [Decode the morse code](https://github.com/Vanesa-R/javascript/blob/master/6.%20Ejercicios%20programaci%C3%B3n/Katas%20de%20codewars/6%20kyu/decode_the_morse_code.js)
+- [Encrypt this!](https://github.com/Vanesa-R/javascript/blob/master/6.%20Ejercicios%20programaci%C3%B3n/Katas%20de%20codewars/6%20kyu/encrypt_this.js)
+- [Grouped by commas](https://github.com/Vanesa-R/javascript/blob/master/6.%20Ejercicios%20programaci%C3%B3n/Katas%20de%20codewars/6%20kyu/grouped_by_commas.js)
+- [Multiples 3 or 5](https://github.com/Vanesa-R/javascript/blob/master/6.%20Ejercicios%20programaci%C3%B3n/Katas%20de%20codewars/6%20kyu/multiples_3_or_5.js)
+- [Multiplication table](https://github.com/Vanesa-R/javascript/blob/master/6.%20Ejercicios%20programaci%C3%B3n/Katas%20de%20codewars/6%20kyu/multiplication_table.js)
+- [Simple fun: typist](https://github.com/Vanesa-R/javascript/blob/master/6.%20Ejercicios%20programaci%C3%B3n/Katas%20de%20codewars/6%20kyu/simple_fun_typist.js)
+- [Who likes it?](https://github.com/Vanesa-R/javascript/blob/master/6.%20Ejercicios%20programaci%C3%B3n/Katas%20de%20codewars/6%20kyu/who_likes_it.js)
+## 7 kyu
+- [Find the calculation type](https://github.com/Vanesa-R/javascript/blob/master/6.%20Ejercicios%20programaci%C3%B3n/Katas%20de%20codewars/7%20kyu/find_the_calculation_type.js)
+- [Mumbling](https://github.com/Vanesa-R/javascript/blob/master/6.%20Ejercicios%20programaci%C3%B3n/Katas%20de%20codewars/7%20kyu/mumbling.js)
+- [Point in a unit circle](https://github.com/Vanesa-R/javascript/blob/master/6.%20Ejercicios%20programaci%C3%B3n/Katas%20de%20codewars/7%20kyu/point_in_a_unit_circle.js)
+- [Remove duplicate words](https://github.com/Vanesa-R/javascript/blob/master/6.%20Ejercicios%20programaci%C3%B3n/Katas%20de%20codewars/7%20kyu/remove_duplicate_words.js)
+- [Reverse words](https://github.com/Vanesa-R/javascript/blob/master/6.%20Ejercicios%20programaci%C3%B3n/Katas%20de%20codewars/7%20kyu/reverse_words.js)
+- [Sort numbers](https://github.com/Vanesa-R/javascript/blob/master/6.%20Ejercicios%20programaci%C3%B3n/Katas%20de%20codewars/7%20kyu/sort_numbers.js)
+- [Strange Strings Parser](https://github.com/Vanesa-R/javascript/blob/master/6.%20Ejercicios%20programaci%C3%B3n/Katas%20de%20codewars/7%20kyu/strange_strings_parser.js)
+- [String ends with](https://github.com/Vanesa-R/javascript/blob/master/6.%20Ejercicios%20programaci%C3%B3n/Katas%20de%20codewars/7%20kyu/string_ends_with.js)
+- [Thinkful - String Drills: Quotable](https://github.com/Vanesa-R/javascript/blob/master/6.%20Ejercicios%20programaci%C3%B3n/Katas%20de%20codewars/7%20kyu/thinkful_string_Drills_Quotable.js)
+- [Thinkful - String Drills: Repeater](https://github.com/Vanesa-R/javascript/blob/master/6.%20Ejercicios%20programaci%C3%B3n/Katas%20de%20codewars/7%20kyu/thinkful_string_drills_repeater.js)
+- [Vaporcode](https://github.com/Vanesa-R/javascript/blob/master/6.%20Ejercicios%20programaci%C3%B3n/Katas%20de%20codewars/7%20kyu/vaporcode.js)
+- [Vowel changer](https://github.com/Vanesa-R/javascript/blob/master/6.%20Ejercicios%20programaci%C3%B3n/Katas%20de%20codewars/7%20kyu/vowel_changer.js)
+- [Words to sentence](https://github.com/Vanesa-R/javascript/blob/master/6.%20Ejercicios%20programaci%C3%B3n/Katas%20de%20codewars/7%20kyu/words_to_sentence.js)
+
+## 8 kyu
+
+- [Countin sheep](https://github.com/Vanesa-R/javascript/blob/master/6.%20Ejercicios%20programaci%C3%B3n/Katas%20de%20codewars/8%20kyu/counting_sheeps.js)
+- [Feast of many beats](https://github.com/Vanesa-R/javascript/blob/master/6.%20Ejercicios%20programaci%C3%B3n/Katas%20de%20codewars/8%20kyu/feast_of_many_beasts.js)
+- [Jenny's secret message](https://github.com/Vanesa-R/javascript/blob/master/6.%20Ejercicios%20programaci%C3%B3n/Katas%20de%20codewars/8%20kyu/jenny's_secret_message.js)
+- [My head is at the wrong end](https://github.com/Vanesa-R/javascript/blob/master/6.%20Ejercicios%20programaci%C3%B3n/Katas%20de%20codewars/8%20kyu/my_head_is_at_the_wrong_end.js)
+- [Sort and Star](https://github.com/Vanesa-R/javascript/blob/master/6.%20Ejercicios%20programaci%C3%B3n/Katas%20de%20codewars/8%20kyu/sort_and_star.js)
+- [Twice as old](https://github.com/Vanesa-R/javascript/blob/master/6.%20Ejercicios%20programaci%C3%B3n/Katas%20de%20codewars/8%20kyu/twice_as_old.js)
+- [Watermelon](https://github.com/Vanesa-R/javascript/blob/master/6.%20Ejercicios%20programaci%C3%B3n/Katas%20de%20codewars/8%20kyu/watermelon.js)
